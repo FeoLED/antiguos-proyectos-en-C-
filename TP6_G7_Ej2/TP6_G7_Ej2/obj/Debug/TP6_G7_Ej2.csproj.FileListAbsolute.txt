@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\bin\Debug\TP6_G7_Ej2.exe.config
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\bin\Debug\TP6_G7_Ej2.exe
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\bin\Debug\TP6_G7_Ej2.pdb
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\obj\Debug\TP6_G7_Ej2.csprojAssemblyReference.cache
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\obj\Debug\TP6_G7_Ej2.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\obj\Debug\TP6_G7_Ej2.exe
+c:\users\usuario\source\repos\TP6_G7_Ej2\TP6_G7_Ej2\obj\Debug\TP6_G7_Ej2.pdb

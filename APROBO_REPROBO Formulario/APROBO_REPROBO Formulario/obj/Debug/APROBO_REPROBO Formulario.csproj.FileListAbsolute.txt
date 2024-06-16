@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\bin\Debug\APROBO_REPROBO Formulario.exe.config
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\bin\Debug\APROBO_REPROBO Formulario.exe
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\bin\Debug\APROBO_REPROBO Formulario.pdb
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO Formulario.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO_Formulario.Form1.resources
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO_Formulario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO Formulario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO Formulario.exe
+C:\Users\Usuario\source\repos\APROBO_REPROBO Formulario\APROBO_REPROBO Formulario\obj\Debug\APROBO_REPROBO Formulario.pdb

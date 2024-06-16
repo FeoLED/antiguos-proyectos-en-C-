@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\bin\Debug\N_Primo.exe.config
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\bin\Debug\N_Primo.exe
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\bin\Debug\N_Primo.pdb
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\obj\Debug\N_Primo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\obj\Debug\N_Primo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\obj\Debug\N_Primo.exe
+C:\Users\Usuario\source\repos\N_Primo\N_Primo\obj\Debug\N_Primo.pdb
