@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\bin\Debug\TP7_G7_Ej1_Clase_Num_WF.exe.config
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\bin\Debug\TP7_G7_Ej1_Clase_Num_WF.exe
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\bin\Debug\TP7_G7_Ej1_Clase_Num_WF.pdb
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.Form1.resources
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.exe
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clase_Num_WF\TP7_G7_Ej1_Clase_Num_WF\obj\Debug\TP7_G7_Ej1_Clase_Num_WF.pdb

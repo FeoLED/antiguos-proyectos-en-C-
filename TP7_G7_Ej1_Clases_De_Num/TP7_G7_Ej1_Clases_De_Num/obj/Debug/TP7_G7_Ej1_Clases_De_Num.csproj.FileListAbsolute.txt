@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\bin\Debug\TP7_G7_Ej1_Clases_De_Num.exe.config
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\bin\Debug\TP7_G7_Ej1_Clases_De_Num.exe
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\bin\Debug\TP7_G7_Ej1_Clases_De_Num.pdb
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\obj\Debug\TP7_G7_Ej1_Clases_De_Num.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\obj\Debug\TP7_G7_Ej1_Clases_De_Num.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\obj\Debug\TP7_G7_Ej1_Clases_De_Num.exe
+C:\Users\Usuario\source\repos\TP7_G7_Ej1_Clases_De_Num\TP7_G7_Ej1_Clases_De_Num\obj\Debug\TP7_G7_Ej1_Clases_De_Num.pdb
